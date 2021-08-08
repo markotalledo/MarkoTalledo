@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! :cowboy_hat_face:
 
 <!--
 **markotalledo/MarkoTalledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+README.md
+Welcome!
+I'm a Business Manangement Student
+Learning about Data Science, Data Analysis & Business Intelligence
+Able to collaborate in multiple projects
+Reach me at marko.talledo@pucp.edu.pe
