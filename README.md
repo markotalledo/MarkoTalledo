@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 README.md
 Welcome!
-I'm a Business Manangement Student
-Learning about Data Science, Data Analysis & Business Intelligence
-Able to collaborate in multiple projects
-Reach me at marko.talledo@pucp.edu.pe
+- I'm a Business Manangement Student 📖
+- Learning about Data Science, Data Analysis & Business Intelligence 
+- Able to collaborate in multiple projects
+- Reach me at marko.talledo@pucp.edu.pe
