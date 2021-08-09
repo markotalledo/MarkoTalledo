@@ -1,4 +1,4 @@
-### Welcome! :cowboy_hat_face:
+## Welcome! :cowboy_hat_face:
 
 <!--
 **markotalledo/MarkoTalledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
