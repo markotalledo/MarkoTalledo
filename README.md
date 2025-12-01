@@ -1,4 +1,4 @@
-# Hi there, I'm Marko Talledo 👋
+# Hi there 👋
 
 ## 🚀 Analytics Engineer | Data Infrastructure & Orchestration
 
