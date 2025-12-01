@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🚀 Analytics Engineer | Data Infrastructure & Orchestration
+## 🚀 Analytics Engineer | Data Analyst
 
 I bridge the gap between raw data and actionable insights. With a strong background in **Business Management** and **Data Engineering**, I specialize in building scalable data platforms, automating complex ETL workflows, and enabling data-driven decision-making.
 
